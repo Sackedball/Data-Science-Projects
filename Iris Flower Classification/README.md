@@ -18,4 +18,4 @@ A local `flowers/` directory containing labeled subdirectories for each flower t
 
 ## Results
 
-The CNN achieves approximately 50% accuracy on the test set (5 flower classes). Training accuracy reaches ~83% by epoch 10, but validation accuracy plateaus around 50-54%, indicating overfitting. See notebook for classification reports and ROC curves.
+The CNN achieves approximately 50% accuracy on the test set (5 flower classes). Training accuracy reaches ~86% by epoch 10, but validation accuracy plateaus around 61-57%, indicating overfitting. See notebook for classification reports and ROC curves.
